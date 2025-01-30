@@ -47,9 +47,11 @@ The following libraries are required for this project:
 
 1. Open the Jupyter Notebook: jupyter notebook notebooks/intrusion_detection.ipynb
 2. Run the notebook cells sequentially to:
+```
 -Preprocess the dataset.
 -Train the RNN model.
 -Compare model performance using alternative algorithms.
+```
    
 ### Dataset
 
