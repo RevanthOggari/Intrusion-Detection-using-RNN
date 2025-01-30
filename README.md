@@ -17,6 +17,7 @@ This project employs machine learning techniques, particularly Recurrent Neural 
 
 ## Project Structure
 
+```
 Intrusion-Detection-RNN/
 ├── notebooks/
 │   ├── intrusion_detection.ipynb  # Your Jupyter Notebook file
@@ -25,6 +26,7 @@ Intrusion-Detection-RNN/
 │   ├── NSL_KDD_Test_21.csv       # Testing dataset
 ├── README.md                     # Documentation
 ├── requirements.txt              # List of dependencies
+```
 
 
 ## Installation
